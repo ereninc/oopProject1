@@ -1,0 +1,8 @@
+12345678910 Fatma Bayrak 25 5 E E 1 2000 100 120 10 50 4000 C:\Desktop\Proje2\fb.jpg
+98765432190 Fatih Keser 35 8 B H 2 2500 100 120 8 55 6000 C:\Desktop\Proje2\fk.jpg
+33333333333 FASatih KFDeser 52 8 B H 2 2500 100 120 8 50 6000 C:\Desktop\Proje2\fkf.jpg
+32132132132 Erencan Inanci 22 8 B H 2 5000 80 150 8 60 3000 C:\Desktop\Proje2\ei.jpg
+12345678910 Fatma Bayrak 25 5 E E 1 2000 100 120 10 50 4000 C:\Desktop\Proje2\fb.jpg
+98765432190 Fatih Keser 35 8 B H 2 2500 100 120 8 55 6000 C:\Desktop\Proje2\fk.jpg
+33333333333 FASatih KFDeser 52 8 B H 2 2500 100 120 8 50 6000 C:\Desktop\Proje2\fkf.jpg
+32132132132 Erencan Inanci 22 8 B H 2 5000 80 150 8 60 3000 C:\Desktop\Proje2\ei.jpg
